@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941868985478",
+    "project_id": "praktikum-df277",
+    "storage_bucket": "praktikum-df277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941868985478:android:ddd994bdf5fe591a077507",
+        "android_client_info": {
+          "package_name": "com.example.praktikum_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgYAIOiSEJRdMWiino_WaWBNdYdgucn7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
